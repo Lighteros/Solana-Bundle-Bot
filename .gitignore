@@ -1,0 +1,9 @@
+.env
+node_modules
+dist
+.history
+
+poolInfo.json
+rayRes.json
+
+*/test-ledger
